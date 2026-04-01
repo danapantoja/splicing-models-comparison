@@ -268,7 +268,7 @@ def score_one_exon_alphagenome(exon_seq: str):
         "alphagenome_psi": psi,
     }
 
-# HAL
+# HAL (in progress)
 
 
 
@@ -411,8 +411,8 @@ if __name__ == "__main__":
     from datetime import datetime
 
     # --- edit these when running the script ---
-    EXON = "CTACCACCTCCCAAGCTTACACACTGTTTGATGAAAGGTCGCCACAACGTTCCCTCACCCCTAGTCTCGC"
-    ACTUAL_PSI = 0.265
+    EXON = "GGTAGTACGCCAATTCGCCGGTGCCGCGAGCCAGAGGCTACCAAAACTTGACAAGCCTACATATACTACT"
+    ACTUAL_PSI = 0.963
     # ------------------------------------------
 
     df = compare_models(EXON, ACTUAL_PSI, spliceai_models)
