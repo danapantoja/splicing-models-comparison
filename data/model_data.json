@@ -1,0 +1,399 @@
+{
+  "link_midpoint": -21.80809438066695,
+  "num_seq_filters": 20,
+  "num_struct_filters": 8,
+  "seq_filter_width": 6,
+  "struct_filter_width": 30,
+  "incl_seq_groups": {
+    "1": [
+      6,
+      9,
+      11,
+      14
+    ],
+    "3": [
+      4,
+      5,
+      8,
+      16,
+      17
+    ],
+    "7": [
+      2,
+      12,
+      13
+    ],
+    "5": [
+      3,
+      10,
+      15
+    ],
+    "6": [
+      1,
+      7
+    ],
+    "2": [
+      0,
+      19
+    ],
+    "4": [
+      18
+    ]
+  },
+  "skip_seq_groups": {
+    "6": [
+      1,
+      5,
+      9,
+      19
+    ],
+    "4": [
+      3,
+      10,
+      14,
+      15,
+      18
+    ],
+    "3": [
+      2,
+      4,
+      8,
+      13
+    ],
+    "5": [
+      6,
+      7,
+      12
+    ],
+    "1": [
+      0,
+      17
+    ],
+    "2": [
+      11,
+      16
+    ]
+  },
+  "incl_struct_groups": {
+    "1": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "skip_struct_groups": {
+    "1": [
+      1
+    ],
+    "2": [
+      0,
+      2,
+      3
+    ],
+    "3": [
+      5,
+      6,
+      7
+    ],
+    "4": [
+      4
+    ]
+  },
+  "seq_logo_boundaries": {
+    "incl": [
+      {
+        "left": 2.0,
+        "right": 3.0,
+        "length": 2.0
+      },
+      {
+        "left": 0.0,
+        "right": 4.0,
+        "length": 5.0
+      },
+      {
+        "left": 0.0,
+        "right": 2.0,
+        "length": 3.0
+      },
+      {
+        "left": 2.0,
+        "right": 5.0,
+        "length": 4.0
+      },
+      {
+        "left": 2.0,
+        "right": 5.0,
+        "length": 4.0
+      },
+      {
+        "left": 1.0,
+        "right": 2.0,
+        "length": 2.0
+      },
+      {
+        "left": 0.0,
+        "right": 3.0,
+        "length": 4.0
+      },
+      {
+        "left": 1.0,
+        "right": 3.0,
+        "length": 3.0
+      },
+      {
+        "left": 0.0,
+        "right": 1.0,
+        "length": 2.0
+      },
+      {
+        "left": 1.0,
+        "right": 5.0,
+        "length": 5.0
+      },
+      {
+        "left": 2.0,
+        "right": 4.0,
+        "length": 3.0
+      },
+      {
+        "left": 1.0,
+        "right": 4.0,
+        "length": 4.0
+      },
+      {
+        "left": 0.0,
+        "right": 3.0,
+        "length": 4.0
+      },
+      {
+        "left": 2.0,
+        "right": 4.0,
+        "length": 3.0
+      },
+      {
+        "left": 0.0,
+        "right": 3.0,
+        "length": 4.0
+      },
+      {
+        "left": 2.0,
+        "right": 4.0,
+        "length": 3.0
+      },
+      {
+        "left": 0.0,
+        "right": 2.0,
+        "length": 3.0
+      },
+      {
+        "left": 0.0,
+        "right": 3.0,
+        "length": 4.0
+      },
+      {
+        "left": 1.0,
+        "right": 4.0,
+        "length": 4.0
+      },
+      {
+        "left": 0.0,
+        "right": 5.0,
+        "length": 6.0
+      }
+    ],
+    "skip": [
+      {
+        "left": 0.0,
+        "right": 3.0,
+        "length": 4.0
+      },
+      {
+        "left": 1.0,
+        "right": 3.0,
+        "length": 3.0
+      },
+      {
+        "left": 2.0,
+        "right": 4.0,
+        "length": 3.0
+      },
+      {
+        "left": 3.0,
+        "right": 4.0,
+        "length": 2.0
+      },
+      {
+        "left": 3.0,
+        "right": 4.0,
+        "length": 2.0
+      },
+      {
+        "left": 0.0,
+        "right": 2.0,
+        "length": 3.0
+      },
+      {
+        "left": 0.0,
+        "right": 5.0,
+        "length": 6.0
+      },
+      {
+        "left": 1.0,
+        "right": 3.0,
+        "length": 3.0
+      },
+      {
+        "left": 0.0,
+        "right": 5.0,
+        "length": 6.0
+      },
+      {
+        "left": 0.0,
+        "right": 3.0,
+        "length": 4.0
+      },
+      {
+        "left": 0.0,
+        "right": 2.0,
+        "length": 3.0
+      },
+      {
+        "left": 0.0,
+        "right": 5.0,
+        "length": 6.0
+      },
+      {
+        "left": 0.0,
+        "right": 5.0,
+        "length": 6.0
+      },
+      {
+        "left": 1.0,
+        "right": 5.0,
+        "length": 5.0
+      },
+      {
+        "left": 1.0,
+        "right": 3.0,
+        "length": 3.0
+      },
+      {
+        "left": 2.0,
+        "right": 4.0,
+        "length": 3.0
+      },
+      {
+        "left": 0.0,
+        "right": 5.0,
+        "length": 6.0
+      },
+      {
+        "left": 1.0,
+        "right": 5.0,
+        "length": 5.0
+      },
+      {
+        "left": 0.0,
+        "right": 2.0,
+        "length": 3.0
+      },
+      {
+        "left": 1.0,
+        "right": 4.0,
+        "length": 4.0
+      }
+    ]
+  },
+  "struct_logo_boundaries": {
+    "incl": [
+      {
+        "left": 0.0,
+        "right": 29.0,
+        "length": 30.0
+      },
+      {
+        "left": 0.0,
+        "right": 29.0,
+        "length": 30.0
+      },
+      {
+        "left": 0.0,
+        "right": 29.0,
+        "length": 30.0
+      },
+      {
+        "left": 0.0,
+        "right": 29.0,
+        "length": 30.0
+      },
+      {
+        "left": 0.0,
+        "right": 29.0,
+        "length": 30.0
+      },
+      {
+        "left": 0.0,
+        "right": 29.0,
+        "length": 30.0
+      },
+      {
+        "left": 0.0,
+        "right": 29.0,
+        "length": 30.0
+      },
+      {
+        "left": 0.0,
+        "right": 29.0,
+        "length": 30.0
+      }
+    ],
+    "skip": [
+      {
+        "left": 3.0,
+        "right": 17.0,
+        "length": 15.0
+      },
+      {
+        "left": 0.0,
+        "right": 29.0,
+        "length": 30.0
+      },
+      {
+        "left": 5.0,
+        "right": 16.0,
+        "length": 12.0
+      },
+      {
+        "left": 5.0,
+        "right": 25.0,
+        "length": 21.0
+      },
+      {
+        "left": 0.0,
+        "right": 29.0,
+        "length": 30.0
+      },
+      {
+        "left": 0.0,
+        "right": 29.0,
+        "length": 30.0
+      },
+      {
+        "left": 0.0,
+        "right": 29.0,
+        "length": 30.0
+      },
+      {
+        "left": 0.0,
+        "right": 29.0,
+        "length": 30.0
+      }
+    ]
+  }
+}

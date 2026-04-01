@@ -1,0 +1,15 @@
+# installation: pip install -r requirements.txt
+# also install separately (not pip):
+# - ViennaRNA (RNAfold on PATH) — needed for the interpretable model’s structure features
+# - MaxEnt matrix files under models/splice_site_scoring/ (see compare_models.py)
+#
+# AlphaGenome: export ALPHAGENOME_API_KEY before running.
+
+tensorflow>=2.12,<3
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+matplotlib>=3.6
+tqdm>=4.64
+git+https://github.com/google-deepmind/alphagenome.git
+git+https://github.com/kepbod/maxentpy.git

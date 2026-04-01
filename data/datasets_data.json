@@ -1,0 +1,56 @@
+{
+  "ES7": {
+    "basal_shift": 0,
+    "pre_flanking_sequence": "CATCCAGGTT",
+    "post_flanking_sequence": "CAGGTCTGAC",
+    "number_of_datapoints": 47962,
+    "exon_length": 70,
+    "sequence_length": 90,
+    "r_squared": 0.9069368881066787
+  },
+  "WT1_exon_5": {
+    "basal_shift": -5.8,
+    "pre_flanking_sequence": "TTTCTAG",
+    "post_flanking_sequence": "GTGAGTG",
+    "number_of_datapoints": 5560,
+    "exon_length": 51,
+    "sequence_length": 65,
+    "r_squared": 0.7756628909179489
+  },
+  "FAS_exon_6": {
+    "basal_shift": 3.6,
+    "pre_flanking_sequence": "",
+    "post_flanking_sequence": "",
+    "number_of_datapoints": 794,
+    "exon_length": 63,
+    "sequence_length": 63,
+    "r_squared": 0.9020387508616958
+  },
+  "SMN2_exon_7": {
+    "basal_shift": -0.2,
+    "pre_flanking_sequence": "AACTTCCTTTATTTTCCTTACAG",
+    "post_flanking_sequence": "GTAAGTCTGCC",
+    "number_of_datapoints": 56,
+    "exon_length": 54,
+    "sequence_length": 88,
+    "r_squared": 0.6485961639623267
+  },
+  "BRCA2_exon_7": {
+    "basal_shift": 3.8,
+    "pre_flanking_sequence": "TTTCTTTCCTCCCAG",
+    "post_flanking_sequence": "GTAATAATAGCAAAT",
+    "number_of_datapoints": 31,
+    "exon_length": 115,
+    "sequence_length": 145,
+    "r_squared": 0.6915058670445455
+  },
+  "CFTR_exon_13": {
+    "basal_shift": 4.8,
+    "pre_flanking_sequence": "CCATTTTCTTTTTAG",
+    "post_flanking_sequence": "GTATGTTCTTTGAAT",
+    "number_of_datapoints": 22,
+    "exon_length": 87,
+    "sequence_length": 117,
+    "r_squared": 0.8591799198918351
+  }
+}
